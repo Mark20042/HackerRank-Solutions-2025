@@ -1,1 +1,1 @@
-HackerRank Solutions 2025
+Hacker Rank Solutions 2025
